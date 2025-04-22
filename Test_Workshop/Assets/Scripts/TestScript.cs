@@ -17,6 +17,7 @@ public class TestScript : MonoBehaviour
         targetOutlineWidth = endOutlineWidth;
         material = textMeshPro.fontMaterial;
         //lets test some shit.
+        //maybe you want this change.
     }
 
     void Update()
