@@ -549,8 +549,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Is This Visible? :)
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 2793941d121e903419e95cff3a9f7760, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 2793941d121e903419e95cff3a9f7760, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -635,11 +635,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1546593560}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a789a172ea581c64cae13b83f5dbd770, type: 3}
+  m_Script: {fileID: 11500000, guid: a6c1c9ed56088a44596feb78ea6586fd, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   textMeshPro: {fileID: 1546593562}
-  speed: 1
+  speed: 10
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
