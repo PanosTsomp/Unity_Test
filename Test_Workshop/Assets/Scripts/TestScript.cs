@@ -16,6 +16,7 @@ public class TestScript : MonoBehaviour
         targetFaceDilate = endFaceDilate;
         targetOutlineWidth = endOutlineWidth;
         material = textMeshPro.fontMaterial;
+        //minor changes here - demonstration purpose change only.
     }
 
     void Update()
